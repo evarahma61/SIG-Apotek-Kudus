@@ -14,7 +14,7 @@
   <h3 align="center">Sistem Informasi Pemetaan Apotek di Kudus</h3>
 
   <p align="center">
-    Website Wisata di Kudus
+    SIG
     <br />
     <a href="https://github.com/evarahma61/SIG-Apotek-Kudus"><strong>Explore the docs »</strong></a>
     <br />
